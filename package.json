@@ -1,0 +1,22 @@
+{
+  "name": "gcp-code-practice",
+  "version": "1.0.0",
+  "description": "Code practice",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcpeters/gcp-code-practice.git"
+  },
+  "author": "GCP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gcpeters/gcp-code-practice/issues"
+  },
+  "homepage": "https://github.com/gcpeters/gcp-code-practice#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
